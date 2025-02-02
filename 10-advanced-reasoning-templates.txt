@@ -1,0 +1,136 @@
+1. Explicit Stepwise Deductive Reasoning Prompt
+
+Prompt:
+"Solve [problem] by explicitly stating each deductive step. For each step, explain: (1) the logical principle used, (2) why this step is necessary, and (3) how it connects to the next step."
+
+Example:
+"Solve whether reinforcement learning can improve large language model reliability by explicitly stating each deductive step. For each step, explain:
+(1) The principle (e.g., reward-driven policy shaping),
+(2) Why it's necessary for reducing hallucinations,
+(3) How it connects to optimizing model output control."
+
+
+---
+
+2. Forced Multi-Perspective Reasoning Prompt
+
+Prompt:
+"Evaluate [complex question] from at least three distinct perspectives. For each perspective, explicitly break down: (1) underlying assumptions, (2) reasoning steps, and (3) potential weaknesses."
+
+Example:
+"Evaluate whether AI-generated content should be eligible for copyright from at least three distinct perspectives:
+(1) Legal framework (precedents and ownership laws),
+(2) Creative ethics (originality vs. human intent),
+(3) Economic impact (incentives for AI-driven content production)."
+
+
+---
+
+3. Recursive Justification Chain Prompt
+
+Prompt:
+"For each step in solving [problem], justify why that step is necessary before moving forward. If a step seems unnecessary, refine the approach to improve efficiency."
+
+Example:
+"For each step in designing an optimal prompt for multi-step reasoning, justify why that step is necessary before moving forward. If a step seems unnecessary, refine the approach to minimize redundancy."
+
+
+---
+
+4. Error-Resistant Chain-of-Thought Debugging Prompt
+
+Prompt:
+"Generate a response to [question]. Then, re-evaluate each reasoning step, explicitly identifying: (1) any logical inconsistencies, (2) potential knowledge gaps, and (3) areas where additional verification is needed."
+
+Example:
+"Generate a response to how retrieval-augmented generation (RAG) improves LLM factual accuracy. Then, re-evaluate each reasoning step, explicitly identifying:
+(1) Any unsupported claims,
+(2) Potential sources of error in the retrieval process,
+(3) Where additional verification using primary sources is needed."
+
+
+---
+
+5. Temporal Sequence Chain-of-Thought Prompt
+
+Prompt:
+"Explain [phenomenon] by breaking it down into a temporal sequence of events. For each stage, describe (1) what happens, (2) why it happens, and (3) how it influences the next stage."
+
+Example:
+"Explain how training a transformer-based language model scales with data volume by breaking it down into a temporal sequence of events. For each stage, describe:
+(1) Tokenization and embedding initialization,
+(2) Gradient-based optimization and convergence,
+(3) Long-term stability in learned representations."
+
+
+---
+
+6. Comparative Chain-of-Thought Analysis Prompt
+
+Prompt:
+"Compare [method A] and [method B] by constructing parallel chain-of-thought sequences. Explicitly identify where each method diverges in its reasoning process and what implications this has."
+
+Example:
+"Compare prompt-based fine-tuning vs. reinforcement learning by constructing parallel chain-of-thought sequences. Explicitly identify where:
+(1) Fine-tuning optimizes static knowledge, while RL optimizes adaptive policies,
+(2) Divergence occurs in generalization capacity,
+(3) How each affects response diversity in open-domain tasks."
+
+
+---
+
+7. Stepwise Hypothesis Validation Prompt
+
+Prompt:
+"Construct a hypothesis for [phenomenon]. Then, validate it through a multi-step reasoning chain, where each step includes (1) an assumption, (2) a testable claim, and (3) potential counter-evidence."
+
+Example:
+"Construct a hypothesis for why chain-of-thought prompting improves logical reasoning in LLMs. Then, validate it through a multi-step reasoning chain, where each step includes:
+(1) Assumptions about attention-based reasoning,
+(2) Testable claims in performance benchmarks,
+(3) Potential counter-evidence in adversarial logic tests."
+
+
+---
+
+8. Predictive Chain-of-Thought Forecasting Prompt
+
+Prompt:
+"Predict [future scenario] by constructing a reasoning chain. For each step, state (1) the prior condition, (2) the expected transformation, and (3) external factors that could alter the prediction."
+
+Example:
+"Predict how multimodal LLMs will change AI research in the next five years by constructing a reasoning chain. For each step, state:
+(1) The prior technological limitation (e.g., unimodal biases),
+(2) How integration of multimodal learning alters capability,
+(3) External factors like compute power and dataset scaling influencing the trend."
+
+
+---
+
+9. Self-Correcting Chain-of-Thought Prompt
+
+Prompt:
+"Solve [problem] and then systematically reanalyze the solution by testing each step for (1) unnecessary complexity, (2) alternative reasoning paths, and (3) computational efficiency."
+
+Example:
+"Solve how to construct an optimal few-shot learning prompt and then systematically reanalyze the solution by testing each step for:
+(1) Over-engineered constraints that add unnecessary complexity,
+(2) Alternative reasoning paths such as contrastive examples,
+(3) Computational efficiency in token usage and model response variability."
+
+
+---
+
+10. Multi-Agent Chain-of-Thought Collaboration Prompt
+
+Prompt:
+"Simulate a multi-agent research discussion where each AI agent builds upon the reasoning of another. Ensure that each agent explicitly states (1) the logical foundation of its response, (2) how it builds on previous insights, and (3) any remaining ambiguities."
+
+Example:
+"Simulate a multi-agent research discussion where AI agents build upon each other's reasoning to optimize LLM prompt adherence in domain-specific tasks. Ensure that each agent explicitly states:
+(1) The logical foundation (e.g., prompt length vs. task complexity trade-off),
+(2) How it builds on previous insights (e.g., temperature tuning improving specificity),
+(3) Any remaining ambiguities that require empirical testing."
+
+
+---
