@@ -1,0 +1,480 @@
+21. **Fill-in-the-Blank Prompt**
+   ```
+   Complete the sentence: {placeholder: sentence with blank}.
+   ```
+   **Description:** This template asks the model to fill in a missing word or phrase in a sentence.
+
+22. **Hypothetical Scenario Prompt**
+   ```
+   Imagine if {placeholder: hypothetical situation}. What would be the outcome?
+   ```
+   **Description:** This template prompts the model to speculate on the outcome of a hypothetical scenario.
+
+23. **Problem-Solving Prompt**
+   ```
+   Solve the following problem: {placeholder: problem description}. Show your work step-by-step.
+   ```
+   **Description:** This template instructs the model to solve a problem and show the reasoning process.
+
+24. **Personalized Recommendation Prompt**
+   ```
+   Recommend {placeholder: number} {placeholder: items} for someone who enjoys {placeholder: preferences}.
+   ```
+   **Description:** This template asks the model to provide personalized recommendations based on preferences.
+
+25. **Explanatory Prompt**
+   ```
+   Explain the concept of {placeholder: concept} in simple terms.
+   ```
+   **Description:** This template instructs the model to explain a complex concept in an easy-to-understand way.
+
+26. **Counterargument Prompt**
+   ```
+   Provide a counterargument to the following statement: {placeholder: statement}.
+   ```
+   **Description:** This template asks the model to generate a counterargument to a given statement.
+
+27. **Predictive Prompt**
+   ```
+   Predict the next {placeholder: number} trends in {placeholder: industry or field}.
+   ```
+   **Description:** This template prompts the model to predict future trends in a specific industry or field.
+
+28. **Analytical Prompt**
+   ```
+   Analyze the following data: {placeholder: data}. What insights can be drawn?
+   ```
+   **Description:** This template instructs the model to analyze data and draw insights from it.
+
+29. **Critique Prompt**
+   ```
+   Critique the following {placeholder: type of content}: {placeholder: content}.
+   ```
+   **Description:** This template asks the model to provide a critical evaluation of a given content.
+
+30. **Paraphrasing Prompt**
+   ```
+   Paraphrase the following text: {placeholder: text}.
+   ```
+   **Description:** This template instructs the model to rephrase a given text in different words.
+
+31. **Decision-Making Prompt**
+   ```
+   Make a decision based on the following information: {placeholder: information}. What is the best course of action?
+   ```
+   **Description:** This template prompts the model to make a decision based on provided information.
+
+32. **Timeline Creation Prompt**
+   ```
+   Create a timeline of events for {placeholder: topic or event}.
+   ```
+   **Description:** This template asks the model to generate a timeline of events for a specific topic or event.
+
+33. **Character Development Prompt**
+   ```
+   Develop a character profile for {placeholder: character name} with the following traits: {placeholder: traits}.
+   ```
+   **Description:** This template instructs the model to create a detailed character profile.
+
+34. **Debate Preparation Prompt**
+   ```
+   Prepare arguments for a debate on the topic of {placeholder: topic}. Include points for both sides.
+   ```
+   **Description:** This template prompts the model to prepare arguments for a debate on a specific topic.
+
+35. **Project Planning Prompt**
+   ```
+   Create a project plan for {placeholder: project description}. Include timelines, resources, and milestones.
+   ```
+   **Description:** This template asks the model to generate a detailed project plan.
+
+36. **Feedback Generation Prompt**
+   ```
+   Provide constructive feedback on the following {placeholder: type of content}: {placeholder: content}.
+   ```
+   **Description:** This template instructs the model to provide constructive feedback on a given content.
+
+37. **Scenario-Based Learning Prompt**
+   ```
+   Design a scenario-based learning activity for {placeholder: topic}. Include objectives and outcomes.
+   ```
+   **Description:** This template prompts the model to create a scenario-based learning activity.
+
+38. **Marketing Strategy Prompt**
+   ```
+   Develop a marketing strategy for {placeholder: product or service}. Include target audience and channels.
+   ```
+   **Description:** This template asks the model to generate a marketing strategy for a specific product or service.
+
+39. **SWOT Analysis Prompt**
+   ```
+   Conduct a SWOT analysis for {placeholder: company or project}.
+   ```
+   **Description:** This template instructs the model to perform a SWOT analysis for a company or project.
+
+40. **Interview Question Prompt**
+   ```
+   Generate {placeholder: number} interview questions for the role of {placeholder: job role}.
+   ```
+   **Description:** This template prompts the model to create interview questions for a specific job role.
+
+‐-----------------------------
+41. **Recipe Creation Prompt**
+   ```
+   Create a recipe for {placeholder: dish name} using {placeholder: ingredients}.
+   ```
+   **Description:** This template instructs the model to generate a recipe using specified ingredients.
+
+42. **Event Planning Prompt**
+   ```
+   Plan an event for {placeholder: occasion} with a budget of {placeholder: budget}. Include venue, activities, and schedule.
+   ```
+   **Description:** This template asks the model to plan an event within a specified budget.
+
+43. **Language Translation Prompt**
+   ```
+   Translate the following text into {placeholder: target language}: {placeholder: text}.
+   ```
+   **Description:** This template prompts the model to translate text into a specified language.
+
+44. **Product Review Prompt**
+   ```
+   Write a review for {placeholder: product name} highlighting its {placeholder: features}.
+   ```
+   **Description:** This template instructs the model to write a product review focusing on specific features.
+
+45. **Travel Itinerary Prompt**
+   ```
+   Create a {placeholder: number}-day travel itinerary for {placeholder: destination}. Include attractions and accommodations.
+   ```
+   **Description:** This template asks the model to generate a travel itinerary for a specific destination.
+
+46. **Resume Building Prompt**
+   ```
+   Build a resume for a {placeholder: job role} with experience in {placeholder: skills or industries}.
+   ```
+   **Description:** This template prompts the model to create a resume for a specific job role.
+
+47. **Social Media Post Prompt**
+   ```
+   Draft a social media post about {placeholder: topic} for {placeholder: platform}.
+   ```
+   **Description:** This template instructs the model to draft a social media post for a specific platform.
+
+48. **Movie Recommendation Prompt**
+   ```
+   Recommend {placeholder: number} movies similar to {placeholder: movie title}.
+   ```
+   **Description:** This template asks the model to recommend movies based on a given title.
+
+49. **Technical Documentation Prompt**
+   ```
+   Write technical documentation for {placeholder: software or tool} covering {placeholder: features}.
+   ```
+   **Description:** This template prompts the model to create technical documentation for software or tools.
+
+50. **Fitness Plan Prompt**
+   ```
+   Design a {placeholder: number}-week fitness plan focusing on {placeholder: fitness goals}.
+   ```
+   **Description:** This template instructs the model to create a fitness plan tailored to specific goals.
+
+51. **Legal Advice Prompt**
+   ```
+   Provide legal advice on {placeholder: legal issue} considering {placeholder: jurisdiction}.
+   ```
+   **Description:** This template asks the model to provide legal advice for a specific issue and jurisdiction.
+
+52. **Financial Analysis Prompt**
+   ```
+   Analyze the financial statements of {placeholder: company} and provide insights.
+   ```
+   **Description:** This template instructs the model to analyze financial statements and provide insights.
+
+53. **Customer Support Prompt**
+   ```
+   Generate a customer support response for the issue: {placeholder: issue description}.
+   ```
+   **Description:** This template prompts the model to create a customer support response for a given issue.
+
+54. **Educational Lesson Prompt**
+   ```
+   Create a lesson plan on {placeholder: topic} for {placeholder: grade level}.
+   ```
+   **Description:** This template asks the model to generate a lesson plan for a specific topic and grade level.
+
+55. **Business Proposal Prompt**
+   ```
+   Write a business proposal for {placeholder: project or service} targeting {placeholder: audience}.
+   ```
+   **Description:** This template instructs the model to write a business proposal for a specific project or service.
+
+56. **Health and Wellness Prompt**
+   ```
+   Provide wellness tips for improving {placeholder: aspect of health}.
+   ```
+   **Description:** This template prompts the model to provide wellness tips for a specific health aspect.
+
+57. **Environmental Impact Prompt**
+   ```
+   Assess the environmental impact of {placeholder: activity or industry}.
+   ```
+   **Description:** This template asks the model to assess the environmental impact of a specific activity or industry.
+
+58. **Cultural Analysis Prompt**
+   ```
+   Analyze the cultural significance of {placeholder: cultural element} in {placeholder: region or country}.
+   ```
+   **Description:** This template instructs the model to analyze the cultural significance of an element in a specific region.
+
+59. **Technical Troubleshooting Prompt**
+   ```
+   Provide troubleshooting steps for {placeholder: technical issue}.
+   ```
+   **Description:** This template prompts the model to provide troubleshooting steps for a technical issue.
+
+60. **Personal Development Prompt**
+   ```
+   Suggest {placeholder: number} personal development goals for {placeholder: individual or role}.
+   ```
+   **Description:** This template asks the model to suggest personal development goals for a specific individual or role.
+
+61. **Historical Analysis Prompt**
+   ```
+   Analyze the historical impact of {placeholder: event or figure}.
+   ```
+   **Description:** This template instructs the model to analyze the historical impact of an event or figure.
+
+62. **Scientific Research Prompt**
+   ```
+   Summarize the findings of the research paper titled {placeholder: paper title}.
+   ```
+   **Description:** This template prompts the model to summarize the findings of a research paper.
+
+63. **Art Critique Prompt**
+   ```
+   Critique the artwork {placeholder: artwork title} by {placeholder: artist}.
+   ```
+   **Description:** This template asks the model to provide a critique of a specific artwork.
+
+64. **Music Composition Prompt**
+   ```
+   Describe the process of composing a {placeholder: genre} music piece.
+   ```
+   **Description:** This template instructs the model to describe the process of composing music in a specific genre.
+
+65. **Architectural Design Prompt**
+   ```
+   Design a {placeholder: type of building} with {placeholder: specific features}.
+   ```
+   **Description:** This template prompts the model to design a building with specific features.
+
+66. **Fashion Trend Analysis Prompt**
+   ```
+   Analyze the current fashion trends for {placeholder: season or occasion}.
+   ```
+   **Description:** This template asks the model to analyze current fashion trends for a specific season or occasion.
+
+67. **Culinary Innovation Prompt**
+   ```
+   Innovate a new dish using {placeholder: ingredients} and inspired by {placeholder: cuisine}.
+   ```
+   **Description:** This template instructs the model to innovate a new dish inspired by a specific cuisine.
+
+68. **Technological Innovation Prompt**
+   ```
+   Propose an innovative solution for {placeholder: technological challenge}.
+   ```
+   **Description:** This template prompts the model to propose an innovative solution for a technological challenge.
+
+69. **Urban Planning Prompt**
+   ```
+   Design an urban plan for {placeholder: city or area} focusing on {placeholder: aspects}.
+   ```
+   **Description:** This template asks the model to design an urban plan focusing on specific aspects.
+
+70. **Economic Policy Prompt**
+   ```
+   Analyze the economic impact of {placeholder: policy or event}.
+   ```
+   **Description:** This template instructs the model to analyze the economic impact of a policy or event.
+
+71. **Social Media Strategy Prompt**
+   ```
+   Develop a social media strategy for {placeholder: brand or company}.
+   ```
+   **Description:** This template prompts the model to develop a social media strategy for a specific brand or company.
+
+72. **Customer Feedback Analysis Prompt**
+   ```
+   Analyze customer feedback for {placeholder: product or service} and suggest improvements.
+   ```
+   **Description:** This template asks the model to analyze customer feedback and suggest improvements.
+
+73. **Educational Technology Prompt**
+   ```
+   Propose the integration of {placeholder: technology} in {placeholder: educational setting}.
+   ```
+   **Description:** This template instructs the model to propose the integration of technology in an educational setting.
+
+74. **Healthcare Innovation Prompt**
+   ```
+   Suggest innovative solutions for improving {placeholder: healthcare aspect}.
+   ```
+   **Description:** This template prompts the model to suggest innovative solutions for improving a specific healthcare aspect.
+
+75. **Environmental Sustainability Prompt**
+   ```
+   Propose sustainable practices for {placeholder: industry or activity}.
+   ```
+   **Description:** This template asks the model to propose sustainable practices for a specific industry or activity.
+
+76. **Cultural Event Planning Prompt**
+   ```
+   Plan a cultural event celebrating {placeholder: cultural aspect or heritage}.
+   ```
+   **Description:** This template instructs the model to plan a cultural event celebrating a specific cultural aspect or heritage.
+
+77. **Technical Writing Prompt**
+   ```
+   Write a technical report on {placeholder: topic} covering {placeholder: aspects}.
+   ```
+   **Description:** This template prompts the model to write a technical report on a specific topic.
+
+78. **Personal Finance Prompt**
+   ```
+   Provide personal finance tips for {placeholder: financial goal or situation}.
+   ```
+   **Description:** This template asks the model to provide personal finance tips for a specific goal or situation.
+
+79. **Artistic Inspiration Prompt**
+   ```
+   Generate artistic inspiration ideas based on {placeholder: theme or concept}.
+   ```
+   **Description:** This template instructs the model to generate artistic inspiration ideas based on a specific theme or concept.
+
+80. **Scientific Experiment Prompt**
+   ```
+   Design an experiment to test the hypothesis: {placeholder: hypothesis}.
+   ```
+   **Description:** This template prompts the model to design an experiment to test a specific hypothesis.
+
+81. **Historical Fiction Prompt**
+   ```
+   Write a historical fiction short story set in {placeholder: time period and location}.
+   ```
+   **Description:** This template asks the model to write a historical fiction short story set in a specific time period and location.
+
+82. **Technical Support Prompt**
+   ```
+   Provide technical support for {placeholder: software or tool} regarding {placeholder: issue}.
+   ```
+   **Description:** This template instructs the model to provide technical support for a specific software or tool.
+
+83. **Personal Growth Prompt**
+   ```
+   Suggest activities for personal growth in {placeholder: area of interest}.
+   ```
+   **Description:** This template prompts the model to suggest activities for personal growth in a specific area of interest.
+
+84. **Cultural Exchange Prompt**
+   ```
+   Plan a cultural exchange program between {placeholder: two cultures or countries}.
+   ```
+   **Description:** This template asks the model to plan a cultural exchange program between two cultures or countries.
+
+85. **Technical Tutorial Prompt**
+   ```
+   Create a tutorial on how to use {placeholder: software or tool} for {placeholder: specific task}.
+   ```
+   **Description:** This template instructs the model to create a tutorial for using software or tools for a specific task.
+
+86. **Health and Fitness Prompt**
+   ```
+   Provide health and fitness tips for {placeholder: fitness goal or lifestyle}.
+   ```
+   **Description:** This template prompts the model to provide health and fitness tips for a specific goal or lifestyle.
+
+87. **Environmental Conservation Prompt**
+   ```
+   Suggest conservation strategies for {placeholder: environmental issue}.
+   ```
+   **Description:** This template asks the model to suggest conservation strategies for a specific environmental issue.
+
+88. **Cultural Preservation Prompt**
+   ```
+   Propose methods for preserving {placeholder: cultural heritage or practice}.
+   ```
+   **Description:** This template instructs the model to propose methods for preserving a specific cultural heritage or practice.
+
+89. **Technical Documentation Prompt**
+   ```
+   Write documentation for {placeholder: software feature or tool} including usage and examples.
+   ```
+   **Description:** This template prompts the model to write documentation for a software feature or tool.
+
+90. **Personal Development Plan Prompt**
+   ```
+   Create a personal development plan focusing on {placeholder: skills or goals}.
+   ```
+   **Description:** This template asks the model to create a personal development plan focusing on specific skills or goals.
+
+91. **Historical Research Prompt**
+   ```
+   Conduct historical research on {placeholder: topic or event} and summarize the findings.
+   ```
+   **Description:** This template instructs the model to conduct historical research and summarize the findings.
+
+92. **Scientific Hypothesis Prompt**
+   ```
+   Formulate a hypothesis based on the observation: {placeholder: observation}.
+   ```
+   **Description:** This template prompts the model to formulate a hypothesis based on a specific observation.
+
+93. **Artistic Collaboration Prompt**
+   ```
+   Propose a collaborative art project involving {placeholder: artists or mediums}.
+   ```
+   **Description:** This template asks the model to propose a collaborative art project involving specific artists or mediums.
+
+94. **Technical Integration Prompt**
+   ```
+   Suggest methods for integrating {placeholder: technology} into {placeholder: existing system or process}.
+   ```
+   **Description:** This template instructs the model to suggest methods for integrating technology into an existing system or process.
+
+95. **Personal Reflection Prompt**
+   ```
+   Write a reflective essay on {placeholder: personal experience or topic}.
+   ```
+   **Description:** This template prompts the model to write a reflective essay on a specific personal experience or topic.
+
+96. **Cultural Celebration Prompt**
+   ```
+   Plan a celebration for {placeholder: cultural event or holiday}.
+   ```
+   **Description:** This template asks the model to plan a celebration for a specific cultural event or holiday.
+
+97. **Technical Optimization Prompt**
+   ```
+   Suggest optimizations for {placeholder: software or system} to improve {placeholder: performance aspect}.
+   ```
+   **Description:** This template instructs the model to suggest optimizations for improving a specific performance aspect.
+
+98. **Health and Wellness Plan Prompt**
+   ```
+   Create a wellness plan focusing on {placeholder: health aspects or goals}.
+   ```
+   **Description:** This template prompts the model to create a wellness plan focusing on specific health aspects or goals.
+
+99. **Environmental Education Prompt**
+   ```
+   Develop an educational program on {placeholder: environmental topic} for {placeholder: audience}.
+   ```
+   **Description:** This template asks the model to develop an educational program on an environmental topic for a specific audience.
+
+100. **Cultural Awareness Prompt**
+    ```
+    Design a cultural awareness workshop focusing on {placeholder: cultural aspects or issues}.
+    ```
+    **Description:** This template instructs the model to design a cultural awareness workshop focusing on specific cultural aspects or issues.
