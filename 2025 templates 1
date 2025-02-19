@@ -1,0 +1,86 @@
+Here are 10 prompt templates using various techniques from 2025:
+
+### 1. Zero-Shot Prompting
+**Template:**
+```
+Classify the following text as {placeholder: list of categories}. Text: {placeholder: text to classify}. Category:
+```
+**Description:**
+This template instructs the model to classify text into predefined categories without providing examples.
+
+### 2. Few-Shot Prompting
+**Template:**
+```
+A {placeholder: new term} is {placeholder: definition}. Example: {placeholder: example sentence using the term}. Now, write a {placeholder: type of content} about a {placeholder: new term}.
+```
+**Description:**
+This template provides an example to guide the model in using a new term in a specific context.
+
+### 3. Chain-of-Thought Prompting
+**Template:**
+```
+I started with {placeholder: initial quantity}. I {placeholder: action 1} {placeholder: quantity 1}, and then {placeholder: action 2} {placeholder: quantity 2}. How many {placeholder: item} do I have now? Think step by step.
+```
+**Description:**
+This template breaks down a problem into logical steps to guide the model through the reasoning process.
+
+### 4. Meta Prompting
+**Template:**
+```
+Step 1: {placeholder: first step description}.
+Step 2: {placeholder: second step description}.
+Step 3: {placeholder: third step description}.
+Apply this structure to solve the following problem: {placeholder: problem description}.
+```
+**Description:**
+This template outlines a structured approach to solving a problem without relying on specific examples.
+
+### 5. Self-Consistency Prompting
+**Template:**
+```
+Generate multiple reasoning paths for the following problem: {placeholder: problem description}. Compare the paths and select the most consistent answer.
+```
+**Description:**
+This template encourages the model to generate multiple solutions and select the most logical one.
+
+### 6. Role-Playing Prompt
+**Template:**
+```
+Act as a {placeholder: role}. Provide a {placeholder: type of response} for the following scenario: {placeholder: scenario description}.
+```
+**Description:**
+This template instructs the model to adopt a specific role and respond accordingly.
+
+### 7. Contextual Prompt
+**Template:**
+```
+Given the context: {placeholder: context description}, answer the following question: {placeholder: question}.
+```
+**Description:**
+This template provides context to help the model generate a more accurate response.
+
+### 8. Style Specification Prompt
+**Template:**
+```
+Write a {placeholder: type of content} in the style of {placeholder: style description}. Topic: {placeholder: topic}.
+```
+**Description:**
+This template specifies the style in which the content should be written.
+
+### 9. Multimodal Prompt
+**Template:**
+```
+Describe the following image: {placeholder: image description}. Include details about {placeholder: specific aspects}.
+```
+**Description:**
+This template combines textual and visual elements to generate a detailed description.
+
+### 10. Ethical Consideration Prompt
+**Template:**
+```
+Consider the ethical implications of the following scenario: {placeholder: scenario description}. Provide a {placeholder: type of analysis} that addresses {placeholder: ethical concerns}.
+```
+**Description:**
+This template prompts the model to consider ethical aspects in its response.
+
+--------------------------
