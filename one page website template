@@ -1,0 +1,92 @@
+"Task:
+Generate a complete HTML file for a one-page website for a prompt engineering platform called PromptForge. This platform provides resources, templates, and tools to help users craft effective prompts. Your output must include the HTML structure, embedded CSS (inside a <style> tag within the <head> section), and JavaScript (inside a <script> tag at the end of the <body> section). Be sure to include inline comments throughout the code to explain each part.
+
+Requirements:
+
+1. Navigation Bar:
+
+Create a fixed navigation bar at the top of the page.
+
+Include links to key sections: Home, Templates, Tools, and Community.
+
+Add a search bar within the navigation bar for users to quickly find prompt templates.
+
+
+
+2. Hero Section:
+
+Design a hero section featuring a video background (use a placeholder for the video URL).
+
+Display a dynamic tagline that rotates through the following phrases every 3 seconds:
+
+“Unlock Your Creativity”
+
+“Craft Perfect Prompts”
+
+“Transform Ideas into Reality”
+
+
+Include a “Get Started” button that links to the Templates section.
+
+
+
+3. Featured Templates Section:
+
+Display several template cards in a grid layout.
+
+Each template card should include placeholders for:
+
+A template preview image
+
+Template title
+
+A brief description of the use case
+
+(Optional) User rating
+
+
+
+
+4. Tools & Resources Section:
+
+Create an interactive section titled “Tools & Resources.”
+
+Integrate a short interactive element (such as a form or a series of buttons) that helps users select appropriate prompt engineering tools based on their needs.
+
+Provide a button to explore the available tools.
+
+
+
+5. Success Stories Section:
+
+Develop a testimonials section with placeholders for testimonial text and user names.
+
+This section should highlight positive feedback from users who have enhanced their prompt engineering workflow.
+
+
+
+6. Footer:
+
+Include links to the platform’s Blog, FAQ, and Privacy Policy.
+
+Add a “Contact Us” button that opens a modal window.
+
+The modal should contain a contact form and support information.
+
+
+
+7. Additional Instructions:
+
+Use filler placeholder content for the video background, template cards, and testimonials.
+
+Ensure all styles are embedded within the <style> tag in the <head>.
+
+Place all JavaScript code within the <script> tag at the end of the <body>.
+
+The JavaScript must implement the dynamic tagline rotation in the hero section, switching the displayed tagline every 3 seconds.
+
+
+
+
+Output Format:
+Return a complete, self-contained HTML document that meets the above specifications. The code should be well-organized and commented for clarity."
