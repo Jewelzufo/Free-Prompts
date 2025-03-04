@@ -1,0 +1,134 @@
+# Data Analysis Templates
+
+1.  "Conduct a [detailed/summary] [TEXT ANALYSIS/IMAGE RECOGNITION/TRENDS] on the content of [FILE TYPE/IMAGE UPLOAD]. Generate a [REPORT/PRESENTATION/VISUALIZATION] that encapsulates your key findings, including [specific aspects the user might want, e.g., common themes, sentiments, key entities, etc.]."
+
+2. "Perform an in-depth [SENTIMENT ANALYSIS/THEME EXTRACTION/EXCEPTION DETECTION] on [DOCUMENT/CSV DATA UPLOAD]. Develop a [COMPREHENSIVE REPORT/SHORT SUMMARY/DATA VISUALIZATION] highlighting [crucial findings like predominant sentiments, frequent topics, or notable anomalies]."
+
+3. "Analyze [CUSTOMER REVIEWS/MARKET TRENDS/FINANCIAL DATA] stored in [FILE FORMAT]. Create a [DATA-DRIVEN REPORT/CASE STUDY/INFOGRAPHIC] detailing [insights such as key trends, market fluctuations, or customer preferences]."
+
+4. "Examine [AUDIO RECORDING/ORDINANCE DATA/WEBSITE TRAFFIC] provided. Produce a [DETAILED ANALYSIS/OVERVIEW REPORT/INTERACTIVE DASHBOARD] that outlines [main observations, patterns, or statistical measures identified]."
+
+5. "Inspect the [CONTENT OF A BOOK/SOCIAL MEDIA POSTS/LINKEDIN PROFILES] specified. Produce a [NARRATIVE REPORT/DATA Snapshot/DATA COMPARISON CHART] focusing on [particular elements users might be interested in, such as language use, network structures, or skill distributions]."
+
+6. "Review [PATIENT MEDICAL RECORDS/INSURANCE CLAIMS] in [PDF/JSON/Excel]. Prepare a [CONFIDENTIAL REPORT/ADDRESSABLE SUMMARY/DATA HEATMAP] that highlights [trends in diagnoses, common conditions, or financial implications]."
+
+7. "Analyze [SOCIAL MEDIA POSTS/BLOG COMMENTS] for inappropriate content. Generate a [CONTENT MODERATION REPORT/MODACTION LOG/OFFENSIVE POST INDEX] detailing [instances of violation, user accounts involved, and recommended actions]."
+
+8. "Conduct a [LEGAL DOCUMENT REVIEW/CONTRACT ANALYSIS] of [WORD DOCUMENT/PDF UPLOAD]. Create an [EXECUTIVE SUMMARY/CLARIFICATION REPORT/REDFLAG Identification] that summarizes [key terms, liabilities, or areas of potential risk]."
+
+9. "Evaluate [CONSUMER SURVEY RESPONSES/MARKET RESEARCH DATA] in [SPSS/CSV/ Excel]. Produce a [MARKET SEGMENTATION REPORT/COMPETITIVE ANALYSIS/CUSTOMER POTENTIAL MAP] focusing on [demographic trends, product preferences, or market gaps]."
+
+10. "Analyze [STUDENT ESSAYS/ONLINE QUIZZES/ATTENDANCE DATA] from an educational institution. Develop a [IMPACT REPORT/EDUCATIONAL ASSESSMENT/STUDENT ENGAGEMENT PLAN] that addresses [student performance metrics, areas requiring improvement, or intervention strategies].
+---
+## Part 2
+
+11. "Please summarize the following text in no more than **[number]** words: **[text]**"
+Usage Example: "Please summarize the following text in no more than 50 words: [Insert a paragraph from a complex news article about climate change here]"
+Explanation: This template is useful for quickly condensing longer texts into key points, ensuring the response remains concise yet informative.
+Prompt Template: Explanation
+
+12. "Explain the concept of **[concept]** as if you were teaching it to a high school student."
+Usage Example: "Explain the concept of quantum entanglement as if you were teaching it to a high school student."
+Explanation: This encourages the AI to break down complex ideas into understandable parts, making it ideal for educational explanations.
+Prompt Template: Recommendation
+
+13. "Based on the preferences **[user preference 1]**, **[user preference 2]**, and **[user preference 3]**, what is your recommendation for **[type of product/service]?**"
+Usage Example: "Based on the preferences 'prefers eco-friendly', 'has a budget under $200', and 'seeks a portable device', what is your recommendation for a laptop?"
+Explanation: This template helps in generating personalized recommendations by outlining specific user criteria.
+Prompt Template: Creative Writing
+
+14. "Write a short story starting with: **[opening line]**.
+Usage Example: "Write a short story starting with: 'The old oak tree by the river always seemed to whisper secrets on windy evenings.'"
+Explanation: This template sparks creativity by providing a starting point for the narrative, suitable for generating fiction or descriptive pieces.
+Prompt Template: Decision-Making
+
+15. "Given **[situation description]**, what steps would you recommend taking and why?"
+Usage Example: "Given 'I have a month to plan a budget-friendly yet memorable vacation for a family of four with teenagers', what steps would you recommend taking and why?"
+Explanation: This template is designed to elicit a structured, reasoned decision-making process, helpful in problem-solving scenarios.
+---
+16. "First, explain the problem: **[problem description]**
+
+Then, break it down into these intermediate steps:
+1. **[Step 1 description]**
+2. **[Step 2 description]**
+3. **[Step 3 description]**
+
+Finally, provide a solution by executing these steps."
+
+Usage Example: "First, explain the problem: Design an energy-efficient lighting system for a large public library with high ceilings.
+Then, break it down into these intermediate steps:
+Identify the key areas requiring lighting and their specific needs.
+Research and select appropriate energy-efficient light sources.
+Calculate the total lighting load and design a layout.
+Finally, provide a solution by executing these steps."
+
+Explanation: This template is useful for complex problem-solving tasks, ensuring each component of the thinking process is clearly articulated.
+---
+
+17. "Describe an algorithm to **[task]**. Break it down into these phases:
+1. **[Input and Initialization phase description]**
+2. **[Processing phase description]**
+3. **[Output and Termination phase description]**
+
+Explain how each phase contributes to the overall task."
+
+Usage Example: "Describe an algorithm to sort a list of names alphabetically. Break it down into these phases:
+[Input and Initialization phase]: Read the list of names and place them into an array.
+[Processing phase]: Implement a comparison-based sorting method like quicksort or mergesort.
+'[Output and Termination phase]: Print the sorted list.**
+Explain how each phase contributes to the overall task."
+
+Explanation: This template aids in understanding and designing/explaining algorithms, breaking them into clear, logical steps.
+---
+
+18. "Analyze the statement: **[statement describing a situation or phenomenon]**. Break down the causes into these categories:
+1. **[Category 1 of direct causes]**
+2. **[Category 2 of indirect causes]**
+3. **[Category 3 of systemic or underlying causes]**
+
+Then, outline the effects on these aspects:
+1. **[Aspect 1 affected]**
+2. **[Aspect 2 affected]**
+3. **[Aspect 3 affected]**"
+
+Usage Example: "Analyze the statement: 'The global rise in sea levels is accelerating'. Break down the causes into these categories:
+[Category 1: Direct causes - e.g., melting glaciers, ice sheets]
+[Category 2: Indirect causes - e.g., thermal expansion of ocean water, changes in ocean currents]
+[Category 3: Systemic or underlying causes - e.g., global warming, displacement of ice mass]
+Then, outline the effects on these aspects:
+
+[Aspect 1: Coastal communities and infrastructure]
+[Aspect 2: Marine ecosystems and biodiversity]
+[Aspect 3: Global weather patterns and extreme events]"
+Explanation: This template supports a structured exploration of complex causal relationships and their impacts.
+
+18.
+"Consider the ethical dilemma: **[description of an ethical dilemma]**. Construct a decision tree with these branches:
+1. **[Branch 1 - Primary consideration 1]**
+2. **[Branch 2 - Primary consideration 2]**
+3. **[Branch 3 - Primary consideration 3]**
+
+For each branch, list the potential consequences and guideline adherence:"
+
+Usage Example: "Consider the ethical dilemma: A company must decide whether to lay off a portion of its workforce to ensure survival during an economic downturn. Construct a decision tree with these branches:
+[Branch 1 - Primary consideration 1: Prioritize employee welfare]
+[Branch 2 - Primary consideration 2: Prioritize company survival]
+[Branch 3 - Primary consideration 3: Seek alternative solutions like reduced hours or wage cuts]
+For each branch, list the potential consequences and guideline adherence:"
+
+Explanation: This template provides a framework for logically examining ethical dilemmas, evaluating various courses of action and their implications.
+
+19. "Evaluate **[two or more alternatives]** for **[objective]**. Use these criteria for comparison:
+1. **[Criterion 1]**
+2. **[Criterion 2]**
+3. **[Criterion 3]**
+
+For each criterion, rate each alternative on a scale of 1-10 and provide a justification for your rating.
+
+Based on these criteria, which alternative is most suitable and why?"
+
+Usage Example: "Evaluate 'option A: Invest in renewable energy' and 'option B: Continue with current fossil fuel-based energy' for the objective 'Achieving carbon neutrality by 2050'. Use these criteria for comparison:
+[Criterion 1: Cost-effectiveness]
+[Criterion 2: Environmental impact]
+[Criterion 3: Technological maturity]
+For each criterion, rate each alternative on a scale of 1-10 and provide a justification for your rating.
