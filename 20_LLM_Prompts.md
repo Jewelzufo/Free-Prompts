@@ -1,4 +1,4 @@
-# 20 LLM Prompts
+# 20 Productivity Prompts
 
 **ATS Resume Analysis**
 
