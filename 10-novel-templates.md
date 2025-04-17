@@ -1,5 +1,3 @@
----
-
 1. The Constraint‑Driven Innovator
 
 ```
