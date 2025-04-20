@@ -2,14 +2,21 @@
 
 This repository contains a collection of prompt templates for you to use freely!
 
+## Data Analysis
 ---
 [Advanced Data Analysis Templates](https://github.com/Jewelzufo/Free-Prompts/blob/main/10-Data-analysis-prompts.md)
+
+---
+## Enterprise Prompts
+
+[Enterprise Prompt Templates](https://github.com/Jewelzufo/Free-Prompts/blob/main/enterprise-templates.md)
 
 ---
 
 [100 Free Prompts](https://github.com/Jewelzufo/Free-Prompts/blob/main/analysis%20templates)
 
 ---
+#AI Engineering Templates 
 
 [Templates for AI Engineers](https://github.com/Jewelzufo/Free-Prompts/blob/main/Prompts-ai-engineering.md)
 
