@@ -1,6 +1,9 @@
 # Data Analysis Templates
 
-1.  "Conduct a [detailed/summary] [TEXT ANALYSIS/IMAGE RECOGNITION/TRENDS] on the content of [FILE TYPE/IMAGE UPLOAD]. Generate a [REPORT/PRESENTATION/VISUALIZATION] that encapsulates your key findings, including [specific aspects the user might want, e.g., common themes, sentiments, key entities, etc.]."
+1.  
+```
+"Conduct a [detailed/summary] [TEXT ANALYSIS/IMAGE RECOGNITION/TRENDS] on the content of [FILE TYPE/IMAGE UPLOAD]. Generate a [REPORT/PRESENTATION/VISUALIZATION] that encapsulates your key findings, including [specific aspects the user might want, e.g., common themes, sentiments, key entities, etc.]."
+```
 
 2. "Perform an in-depth [SENTIMENT ANALYSIS/THEME EXTRACTION/EXCEPTION DETECTION] on [DOCUMENT/CSV DATA UPLOAD]. Develop a [COMPREHENSIVE REPORT/SHORT SUMMARY/DATA VISUALIZATION] highlighting [crucial findings like predominant sentiments, frequent topics, or notable anomalies]."
 
