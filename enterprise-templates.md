@@ -4,7 +4,7 @@ The following templates are suitable for enterprise use cases.
 
 ## 1. Content Outline & Drafting  
 **Use for:** Articles, white papers, reports, blog posts
-
+```
 You are a {expert_role} with deep knowledge of {industry_or_topic}.
 Create a detailed {content_type} outline on "{topic}" aimed at {audience}.
 Goals:
@@ -30,6 +30,7 @@ Supporting Data or Examples
 
 Tone: {tone_style}
 Length: ~{word_count} words
+```
 
 **Example placeholders**  
 - `{expert_role}` → “Senior Industrial Analyst”  
@@ -40,7 +41,7 @@ Length: ~{word_count} words
 
 ## 2. Professional Email or Memo  
 **Use for:** Internal announcements, stakeholder updates, sales outreach
-
+```
 You are a {your_title} at {company_name}.
 Draft a {tone} email to {recipient_title_or_dept} about "{subject_line}".
 
@@ -58,6 +59,7 @@ Signature format:
 {Your Name}
 {Your Title}
 {Contact Info}
+```
 
 **Example placeholders**  
 - `{tone}` → “concise and upbeat”  
@@ -67,7 +69,7 @@ Signature format:
 
 ## 3. Data Analysis & Insight Report  
 **Use for:** Market research, quarterly reviews, KPI dashboards
-
+```
 You’re a {analyst_role} specializing in {data_domain}.
 Given the following dataset description:
 
@@ -96,12 +98,14 @@ Include charts or tables where appropriate.
 **Example placeholders**  
 - `{analysis_type}` → “trend analysis and forecasting”  
 - `{output_format}` → “a short executive summary + 3-slide deck outline”
+```
 
 ---
 
 ## 4. Idea Generation & Brainstorming  
 **Use for:** Product features, marketing campaigns, process improvements
 
+```
 You are a {creative_role}. Brainstorm {N} innovative ideas for "{challenge_or_topic}".
 
 Constraints & criteria:
@@ -121,12 +125,13 @@ For each idea, provide: • Title
 **Example placeholders**  
 - `{N}` → “10”  
 - `{challenge_or_topic}` → “the next-gen mobile shopping experience”
+```
 
 ---
 
 ## 5. Code Snippet or Automation Script  
 **Use for:** Developers, data engineers, automation specialists
-
+```
 You are a {developer_role} expert in {programming_language_or_tool}.
 Write a function or script that {function_purpose}.
 
@@ -152,7 +157,7 @@ Well‑commented code
 Unit tests or sample usage
 
 Brief README or docstring
-
+```
 
 **Example placeholders**  
 - `{function_purpose}` → “parses CSVs into JSON and pushes to an API”  
@@ -161,7 +166,7 @@ Brief README or docstring
 ---
 ## 6. Customer Support Response Drafting  
 **Use for:** Automated support replies, ticket escalations, customer satisfaction
-
+```
 You are a {support_role} at {company_name}.
 Craft a response to a customer regarding "{issue_summary}".
 Include:
@@ -174,13 +179,14 @@ Timeline for follow-up
 
 Next best action or escalation path
 Tone: {tone_style}
-
+```
 
 ---
 
 ## 7. Risk Assessment Report  
 **Use for:** Enterprise risk management, compliance teams, executive summaries
 
+```
 You are a {risk_role} specializing in {risk_domain}.
 Assess the potential risks for "{project_or_initiative}".
 Cover:
@@ -196,7 +202,7 @@ Cover:
 
 4. Mitigation strategies
 Output format: {output_format}
-
+```
 
 
 ---
@@ -204,6 +210,7 @@ Output format: {output_format}
 ## 8. Employee Onboarding Plan  
 **Use for:** HR teams, training departments, new-hire integration
 
+```
 You are an {hr_role} at {company_name}.
 Create a {timeframe}-day onboarding plan for {new_hire_title}.
 Include:
@@ -215,13 +222,13 @@ Training modules and resources
 Mentor or buddy assignments
 
 Key meetings and check‑ins
-
+```
 
 ---
 
 ## 9. Change Management Communication  
 **Use for:** Organizational change, system rollouts, policy updates
-
+```
 You are a {change_manager_role}.
 Draft a communication to {stakeholder_group} about "{change_description}".
 Include:
@@ -234,13 +241,14 @@ Impact on roles and processes
 
 Support and training information
 Tone: {tone_style}
-
+```
 
 ---
 
 ## 10. Cybersecurity Incident Response  
 **Use for:** Security teams, IT operations, audits
 
+```
 You are a {security_role} on the {incident_response_team}.
 Outline the incident response plan for a {incident_type} detected on {detection_date}.
 Sections:
@@ -252,13 +260,14 @@ Eradication and recovery
 Lessons learned and reporting
 
 Preventative measures
-
+```
 
 ---
 
 ## 11. Procurement Negotiation Strategy  
 **Use for:** Procurement teams, vendor management
 
+```
 You are a {procurement_role}.
 Develop a negotiation strategy for purchasing {product_or_service} from {vendor_name}.
 Cover:
@@ -270,13 +279,14 @@ Concession priorities
 BATNA (Best Alternative To a Negotiated Agreement)
 
 Timeline and decision points
-
+```
 
 ---
 
 ## 12. Sustainability Initiative Proposal  
 **Use for:** CSR teams, sustainability officers
 
+```
 You are a {sustainability_role}.
 Propose a sustainability initiative focused on {sustainability_goal}.
 Include:
@@ -291,7 +301,7 @@ Include:
 
 
 4. ROI and KPIs
-
+```
 
 
 ---
@@ -299,6 +309,7 @@ Include:
 ## 13. Sales Forecasting Model Outline  
 **Use for:** Sales operations, finance teams
 
+```
 You are a {sales_analyst_role} specializing in {industry}.
 Outline a forecasting model for {product_line_or_region} sales.
 Describe:
@@ -310,13 +321,14 @@ Modeling techniques (e.g., time series, regression)
 Validation and error metrics
 
 Reporting cadence and dashboard specs
-
+```
 
 ---
 
 ## 14. IT Infrastructure Upgrade Plan  
 **Use for:** IT departments, infrastructure teams
 
+```
 You are an {it_manager_role}.
 Plan an upgrade for the {current_system} to {new_system}.
 Include:
@@ -328,13 +340,14 @@ Compatibility and migration steps
 Risk mitigation and rollback plan
 
 Budget and timeline estimates
-
+```
 
 ---
 
 ## 15. Compliance Audit Checklist  
 **Use for:** Legal, compliance, internal audit
 
+```
 You are a {compliance_officer_role}.
 Generate a checklist for auditing {regulation_or_standard} compliance.
 List:
@@ -346,8 +359,7 @@ Process and control tests
 Evidence collection methods
 
 Reporting and remediation steps
-
-
+```
 
 
 
