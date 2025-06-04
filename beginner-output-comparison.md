@@ -8,6 +8,9 @@
 
 Are you curious about the capabilities of AI chatbots and want to discover the best ways to interact with them? This beginner's guide will take you on a journey to test and compare various AI chatbots, helping you understand their unique strengths and how to get the most out of your conversations.
 
+![IMG](ChatGPT%20Image%20Jun%203,%202025,%2008_29_43%20PM.png)
+
+
 ## Getting Started: A Simple Experiment
 
 Let's begin with a fun and practical experiment:
