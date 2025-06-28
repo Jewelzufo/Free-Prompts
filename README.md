@@ -2,14 +2,18 @@
 
 This repository contains a collection of prompt templates for you to use freely!
 
+## NEW - Structured 
+
+>[Data Tasks](https://github.com/Jewelzufo/.github.io)
+
 ## Data Analysis
 ---
-[Advanced Data Analysis Templates](https://github.com/Jewelzufo/Free-Prompts/blob/main/10-Data-analysis-prompts.md)
+>[Advanced Data Analysis Templates](https://github.com/Jewelzufo/Free-Prompts/blob/main/10-Data-analysis-prompts.md)
 
 ---
 ## Enterprise Prompts
 
-[Enterprise Prompt Templates](https://github.com/Jewelzufo/Free-Prompts/blob/main/enterprise-templates.md)
+>[Enterprise Prompt Templates](https://github.com/Jewelzufo/Free-Prompts/blob/main/enterprise-templates.md)
 
 ---
 
@@ -18,13 +22,13 @@ This repository contains a collection of prompt templates for you to use freely!
 ---
 #AI Engineering Templates 
 
-[Templates for AI Engineers](https://github.com/Jewelzufo/Free-Prompts/blob/main/Prompts-ai-engineering.md)
+>[Templates for AI Engineers](https://github.com/Jewelzufo/Free-Prompts/blob/main/Prompts-ai-engineering.md)
 
 ---
 
 # Novel Prompt Templates
 
-[**10 Novel Templates**](https://github.com/Jewelzufo/Free-Prompts/blob/main/10-novel-templates.md)
+>[**10 Novel Templates**](https://github.com/Jewelzufo/Free-Prompts/blob/main/10-novel-templates.md)
 
 ---
 
