@@ -4,6 +4,14 @@ This repository contains a collection of prompt templates for you to use freely!
 
 ---
 
+## Prompting Techniques Guide
+
+50 Prompt techniques with templates & placeholder guide
+
+>- [Prompt Techniques Guide](https://github.com/Jewelzufo/Free-Prompts/blob/main/prompt-techniques.md)
+
+---
+
 ## Data Analysis
 ---
 - [Data Prompts](data-prompts.md)
