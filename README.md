@@ -12,6 +12,12 @@ This repository contains a collection of prompt templates for you to use freely!
 
 ---
 
+## July 2025 Prompts
+
+- [Prompt Arsenal 01](https://github.com/Jewelzufo/Free-Prompts/blob/main/Prompt_Arsenal_1.md)
+
+---
+
 ## Data Analysis
 ---
 - [Data Prompts](data-prompts.md)
