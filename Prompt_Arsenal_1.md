@@ -1,6 +1,16 @@
-# Prompt Arsenal 01
+<div align="center">
+  <h1>Prompt Arsenal-01</h1>
 
-*J.A.G., 2025*
+  *Julian A. Gonzalez, Generative AI Engineer*
+  
+  *07-25-2025*
+</div>
+
+---
+
+![Prompt Arsenal](https://github.com/Jewelzufo/Free-Prompts/blob/main/Prompt%20Arsenal-01.png?raw=true)
+
+---
 
 ### Summary:
 
