@@ -4,6 +4,12 @@ This repository contains a collection of prompt templates for you to use freely!
 
 ---
 
+## GPT-5 Prompt Guide 
+
+[GPT-5 Guide](https://github.com/Jewelzufo/Free-Prompts/blob/main/gpt5-prompting.md)
+
+---
+
 ## Prompting Techniques Guide
 
 50 Prompt techniques with templates & placeholder guide
