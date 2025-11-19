@@ -2,6 +2,60 @@
 
 This template is designed to guide the Manus agent through a structured process of analyzing, debugging, testing, and refactoring a provided code snippet.
 
+## Manus Code Optimization Request (condensed)
+
+```markdown
+INPUT
+
+Code:
+
+```[CODE_LANGUAGE] [PASTE CODE SNIPPET HERE] ```
+
+Goal:
+
+[DESCRIBE EXPECTED FUNCTIONALITY/BEHAVIOR]
+
+INSTRUCTIONS
+
+Agent MUST:
+
+1.
+Debug: Fix all errors to meet the Goal.
+
+2.
+Test: Validate the corrected code with minimal test cases.
+
+3.
+Refactor: Apply modern [CODE_LANGUAGE] best practices for readability, maintainability, and performance.
+
+OUTPUT FORMAT
+
+1. Refactored Code:
+
+The final, optimized code.
+
+```[CODE_LANGUAGE] [PASTE REFACTORED CODE HERE] ```
+
+2. Summary & Tests:
+
+A table summarizing the work and the validation tests.
+
+Category
+Detail
+Bugs Fixed
+[List of critical bugs addressed]
+Refactoring Focus
+[Key areas of improvement, e.g., "Error Handling, Efficiency"]
+
+
+Validation Tests:
+
+```[TEST_FRAMEWORK_OR_LANGUAGE] [PASTE TEST CODE HERE] ```
+
+```
+
+## Extended debugging prompt
+
 **Prompt**:
 
 ```markdown
