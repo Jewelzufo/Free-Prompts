@@ -2,6 +2,9 @@
 
 This template is designed to guide the Manus agent through a structured process of analyzing, debugging, testing, and refactoring a provided code snippet.
 
+**Prompt**:
+
+```markdown
 ## 1. Objective
 
 The primary objective is to transform the provided `[CODE_LANGUAGE]` code snippet from its current state into a fully functional, tested, and refactored version that adheres to modern best practices for the specified language.
@@ -94,3 +97,6 @@ A bulleted list of all significant changes made between the original and refacto
 *   **Optimization:**
     *   [Detail 1]
     *   [Detail 2]
+```
+
+Enjoy!
