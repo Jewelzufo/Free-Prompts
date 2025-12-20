@@ -45,7 +45,3 @@ This repository contains a collection of prompt templates for you to use freely!
 - [**10 Novel Templates**](https://github.com/Jewelzufo/Free-Prompts/blob/main/10-novel-templates.md)
 
 ---
-
-This repo will be updated monthly! 
-
->>J.A.G 07-01-2025
