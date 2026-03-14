@@ -5,7 +5,6 @@ description: A collection of structured templates for enterprise prompt engineer
 
 # Enterprise Prompt Templates 2026 v1
 
-[![Hits](https://hits.sh/Jewelzufo/Free-Prompts.svg)](https://hits.sh/Jewelzufo/Free-Prompts/)
 
 ## 📜 Version History
 
