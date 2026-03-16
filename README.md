@@ -16,6 +16,7 @@
 <br>
 
 ## 📑 Table of Contents
+- [Enterprise Templates 2026 v1](#enterprise-prompt-templates-2026-v1)
 - [GPT‑5 Prompt Guide](#gpt5-prompt-guide)
 - [Prompting Techniques Guide](#prompting-techniques-guide)
 - [July 2025 Prompt Packs](#july-2025-prompt-packs)
@@ -27,7 +28,7 @@
 
 <br>
 
-## [NEW] Enterprise Prompt Templates 2026 v1
+# [NEW] Enterprise Prompt Templates 2026 v1
 
 Structured templates for enterprise prompt engineering, designed to improve precision, relevance, and adaptability in AI-generated outputs for business applications.
 
