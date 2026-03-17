@@ -1,7 +1,7 @@
 
 # Universal Template 
  
-This prompt utilizes a structured XML-tagged architecture to separate core components—Role, Task, Context, and Output—for enhanced model comprehension. It combines persona adoption with explicit Chain of Thought reasoning to ensure logical, high-quality responses, while enforcing strict formatting constraints for consistent results.
+This prompt utilizes an XML-tagged agentic framework to structure the interaction flow. It defines a persona and objective, then explicitly invokes a Web Search action for real-time data retrieval. The architecture mandates Chain of Thought reasoning to synthesize search results before delivering a structured Markdown response.
 
 <br>
 
@@ -10,7 +10,7 @@ This prompt utilizes a structured XML-tagged architecture to separate core compo
 ```markdown
 <role>{role} expert in {domain}</role>
 <task>Your mission is to {task}.</task>
-<search="{Domain Docs}">
+<web_search="{query}">
 <think>Step-by-step reasoning here.</think>
 <output format="Markdown">
 {FINAL ANSWER}
