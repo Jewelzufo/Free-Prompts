@@ -1,7 +1,7 @@
 
 # Universal Template 
-
-This template can be used with LLMs to produce quality outputs. Replace the `{placeholders}` with your own relevant data for your use case. 
+ 
+This prompt utilizes a structured XML-tagged architecture to separate core components—Role, Task, Context, and Output—for enhanced model comprehension. It combines persona adoption with explicit Chain of Thought reasoning to ensure logical, high-quality responses, while enforcing strict formatting constraints for consistent results.
 
 <br>
 
